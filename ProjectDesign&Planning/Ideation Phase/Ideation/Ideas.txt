@@ -1,0 +1,30 @@
+TOP THREE IDEAS:
+*Using Sensors to monitor the soil Parameters
+*Implementing a simple UI with straight-to-the-point operations in 
+order to reduce complexity and ensure maximum usability
+*Monitoring of climate conditions
+
+Avinesh j -Team Lead 
+1.Monitoring of climate conditions
+2.Predictive analytics for smart farming
+3.End-to-end farm management systems
+4.Irrigation Management
+
+Deenadhayalan K -Team Member 1
+5.Using Soil test results to determine the nutrients requirements 
+and fertilizer usage
+6.Using Sensors to monitor the soil Parameters
+7.Using sensors to check for pest attack
+8.Using sensors predict accurate cultivation time
+
+Charan V-Team Member 2
+9.Using IOT to automate motor controls
+10.Using Mobile call to access the sensors of the IOT device
+11.Accessing the IOT sensors using Mobile App
+12.Remainder calls to admin for watering the plants
+
+Vishal B-Team Member 3
+13.Motor automatic on off
+14.Pipe opening and closing so that water supply to particular place can be controlled 
+15.sensors to monitor cattle grazing the crops and alerting the farmer
+16.drone that spray pesticides and fertilizers when indicated from sensors
